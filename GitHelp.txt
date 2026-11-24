@@ -1,0 +1,12 @@
+Команды для регистрации ваших данных
+git config --global user.name "your_username"
+git config --global user.email "your_username@gmai.com"
+
+Команды только для одного проекта
+3) git init
+4) git remote add origin link_to_repository
+
+Часто используемые команды
+
+5) git status
+6) git add
