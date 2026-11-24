@@ -8,5 +8,7 @@ git config --global user.email "your_username@gmai.com"
 
 Часто используемые команды
 
-5) git status
-6) git add
+5) git status статус репозитория
+6) git add добавление файлов в буфер обмена
+7) git commit -m "message" сохранение всего из буфера обмена
+8) git push origin master
